@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Mavis branch README
+master branch README
